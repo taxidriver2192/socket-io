@@ -14,15 +14,15 @@ Dette kommer til at kunne have nogle fede funktionaliteter, som jeg først er kl
 ## Hvad kan dette program?
 
 Dette program er ganske simpel en simpel chat, det er eneste du skal gøre for at få den til at virke.
-
+```
 git clone https://github.com/taxidriver2192/socket-io.git
-
+```
 der efter instller alle dependencies
-
+```
 npm i
-
+```
 køre programmet.
-
+```
 node index.js
 
 Besøge siden på localhost:3000
